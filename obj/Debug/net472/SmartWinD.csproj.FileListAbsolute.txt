@@ -1,0 +1,10 @@
+C:\Users\arch\Desktop\ad\bin\Debug\net472\SmartWinD.exe.config
+C:\Users\arch\Desktop\ad\bin\Debug\net472\SmartWinD.exe
+C:\Users\arch\Desktop\ad\bin\Debug\net472\SmartWinD.pdb
+C:\Users\arch\Desktop\ad\obj\Debug\net472\SmartWinD.csproj.AssemblyReference.cache
+C:\Users\arch\Desktop\ad\obj\Debug\net472\SmartWinD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arch\Desktop\ad\obj\Debug\net472\SmartWinD.AssemblyInfoInputs.cache
+C:\Users\arch\Desktop\ad\obj\Debug\net472\SmartWinD.AssemblyInfo.cs
+C:\Users\arch\Desktop\ad\obj\Debug\net472\SmartWinD.csproj.CoreCompileInputs.cache
+C:\Users\arch\Desktop\ad\obj\Debug\net472\SmartWinD.exe
+C:\Users\arch\Desktop\ad\obj\Debug\net472\SmartWinD.pdb
